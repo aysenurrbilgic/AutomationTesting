@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2554e262-a751-4f0f-9fb2-371dbd214077" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aysenurrbilgic"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aysenurrbilgic/automationtest.git",
+    "accountId": "899d6f5b-7f45-44af-ab9f-c51653a39aaf"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2iozu0MrFqQjxirdGPUCINnKkYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CategoriesButton.executor": "Coverage",
+    "Application.GetMethods.executor": "Coverage",
+    "Application.Locators.executor": "Coverage",
+    "Application.ManageMethods.executor": "Coverage",
+    "Application.NavigateMethods.executor": "Coverage",
+    "Application.ProductsBox.executor": "Coverage",
+    "Application.TextBox.executor": "Coverage",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/javaProjects/automationtest/target/test-classes/testNG.xml (1).executor": "Run",
+    "TestNG.C:/javaProjects/automationtest/target/test-classes/testNG.xml.executor": "Run",
+    "TestNG.ContactButton (1).executor": "Coverage",
+    "TestNG.ContactButton (2).executor": "Coverage",
+    "TestNG.ContactButton (3).executor": "Run",
+    "TestNG.ContactButton.executor": "Coverage",
+    "TestNG.ContactButton.test02.executor": "Run",
+    "TestNG.DynamicElementsTesting (1).executor": "Run",
+    "TestNG.DynamicElementsTesting (2).executor": "Coverage",
+    "TestNG.DynamicElementsTesting.executor": "Coverage",
+    "TestNG.DynamicElementsTesting.test01.executor": "Run",
+    "TestNG.DynamicElementsTesting.test02.executor": "Run",
+    "TestNG.Links (1).executor": "Coverage",
+    "TestNG.Links (2).executor": "Coverage",
+    "TestNG.Links (3).executor": "Coverage",
+    "TestNG.Links (4).executor": "Coverage",
+    "TestNG.Links.executor": "Coverage",
+    "TestNG.Links.test01.executor": "Run",
+    "TestNG.Links.test02.executor": "Run",
+    "TestNG.Links.test03.executor": "Run",
+    "TestNG.Links.test05.executor": "Coverage",
+    "TestNG.PageBroken (1).executor": "Run",
+    "TestNG.PageBroken (2).executor": "Run",
+    "TestNG.PageBroken (3).executor": "Coverage",
+    "TestNG.PageBroken.executor": "Coverage",
+    "TestNG.PageBroken.test04.executor": "Run",
+    "TestNG.SearchTables (1).executor": "Coverage",
+    "TestNG.SearchTables (2).executor": "Coverage",
+    "TestNG.SearchTables (3).executor": "Coverage",
+    "TestNG.SearchTables.executor": "Coverage",
+    "TestNG.SearchTables.test03.executor": "Coverage",
+    "TestNG.SearchTables.test04.executor": "Coverage",
+    "TestNG.categoriesTesting.executor": "Coverage",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/javaProjects/automationtest/src/main/java/getMethods/GetMethods.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.GetMethods">
+    <configuration name="GetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getMethods.GetMethods" />
+      <module name="automationtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="locators.Locators" />
+      <module name="automationtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManageMethods.ManageMethods" />
+      <module name="automationtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ManageMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loginexamples.ProductsBox" />
+      <module name="automationtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicElementsTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginexamples" />
+      <option name="MAIN_CLASS_NAME" value="loginexamples.DynamicElementsTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageBroken" type="TestNG" editBeforeRun="true" nameIsGenerated="true">
+      <module name="automationtest" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="loginexamples" />
+      <option name="MAIN_CLASS_NAME" value="loginexamples.PageBroken" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetMethods" />
+      <item itemvalue="Application.Locators" />
+      <item itemvalue="Application.ManageMethods" />
+      <item itemvalue="Application.ProductsBox" />
+      <item itemvalue="TestNG.PageBroken" />
+      <item itemvalue="TestNG.DynamicElementsTesting" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetMethods" />
+        <item itemvalue="Application.Locators" />
+        <item itemvalue="Application.ManageMethods" />
+        <item itemvalue="Application.ProductsBox" />
+        <item itemvalue="TestNG.DynamicElementsTesting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2554e262-a751-4f0f-9fb2-371dbd214077" name="Changes" comment="" />
+      <created>1720171937175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720171937175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/automationtest$Links_test01.ic" NAME="Links.test01 Coverage Results" MODIFIED="1720391292900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links__4_.ic" NAME="Links (4) Coverage Results" MODIFIED="1720390734334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$C__javaProjects_automationtest_target_test_classes_testNG_xml__1_.ic" NAME="$PROJECT_DIR$/target/test-classes/testNG.xml (1) Coverage Results" MODIFIED="1720443250106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/automationtest$PageBroken__3_.ic" NAME="PageBroken (3) Coverage Results" MODIFIED="1720420712243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$DynamicElementsTesting_test02.ic" NAME="DynamicElementsTesting.test02 Coverage Results" MODIFIED="1720429394532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$GetMethods.ic" NAME="GetMethods Coverage Results" MODIFIED="1720447749093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>getMethods.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links__3_.ic" NAME="Links (3) Coverage Results" MODIFIED="1720420454109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$TextBox.ic" NAME="TextBox Coverage Results" MODIFIED="1720434739291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$SearchTables__1_.ic" NAME="SearchTables (1) Coverage Results" MODIFIED="1720351436666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links_test03.ic" NAME="Links.test03 Coverage Results" MODIFIED="1720406534394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$PageBroken.ic" NAME="PageBroken Coverage Results" MODIFIED="1720437225182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$SearchTables_test04.ic" NAME="SearchTables.test04 Coverage Results" MODIFIED="1720359744935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$C__javaProjects_automationtest_target_test_classes_testNG_xml.ic" NAME="$PROJECT_DIR$/target/test-classes/testNG.xml Coverage Results" MODIFIED="1720441160095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/automationtest$Locators.ic" NAME="Locators Coverage Results" MODIFIED="1720447660905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>locators.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$categoriesTesting.ic" NAME="categoriesTesting Coverage Results" MODIFIED="1720443625406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ProductsBox.ic" NAME="ProductsBox Coverage Results" MODIFIED="1720447460103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$DynamicElementsTesting.ic" NAME="DynamicElementsTesting Coverage Results" MODIFIED="1720447319283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links__2_.ic" NAME="Links (2) Coverage Results" MODIFIED="1720406836194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$SearchTables.ic" NAME="SearchTables Coverage Results" MODIFIED="1720434575359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$CategoriesButton.ic" NAME="CategoriesButton Coverage Results" MODIFIED="1720367280631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links__1_.ic" NAME="Links (1) Coverage Results" MODIFIED="1720406781329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ContactButton__2_.ic" NAME="ContactButton (2) Coverage Results" MODIFIED="1720375347335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ContactButton__3_.ic" NAME="ContactButton (3) Coverage Results" MODIFIED="1720376833427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$DynamicElementsTesting_test01.ic" NAME="DynamicElementsTesting.test01 Coverage Results" MODIFIED="1720426688368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ManageMethods.ic" NAME="ManageMethods Coverage Results" MODIFIED="1720447600283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ManageMethods.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ContactButton_test02.ic" NAME="ContactButton.test02 Coverage Results" MODIFIED="1720378037739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$PageBroken__1_.ic" NAME="PageBroken (1) Coverage Results" MODIFIED="1720419889328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$DynamicElementsTesting__1_.ic" NAME="DynamicElementsTesting (1) Coverage Results" MODIFIED="1720424358058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$NavigateMethods.ic" NAME="NavigateMethods Coverage Results" MODIFIED="1720434290408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>navigateMethods.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$SearchTables__2_.ic" NAME="SearchTables (2) Coverage Results" MODIFIED="1720359764064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$SearchTables_test03.ic" NAME="SearchTables.test03 Coverage Results" MODIFIED="1720358306422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ContactButton__1_.ic" NAME="ContactButton (1) Coverage Results" MODIFIED="1720378696168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$Links.ic" NAME="Links Coverage Results" MODIFIED="1720434432302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$PageBroken_test04.ic" NAME="PageBroken.test04 Coverage Results" MODIFIED="1720422688256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$PageBroken__2_.ic" NAME="PageBroken (2) Coverage Results" MODIFIED="1720420014448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$ContactButton.ic" NAME="ContactButton Coverage Results" MODIFIED="1720434821985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automationtest$DynamicElementsTesting__2_.ic" NAME="DynamicElementsTesting (2) Coverage Results" MODIFIED="1720428455162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginexamples.*</FILTER>
+    </SUITE>
+  </component>
+</project>
